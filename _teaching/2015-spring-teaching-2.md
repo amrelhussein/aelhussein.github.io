@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Modeling Ackermann steering model in Coppelia Sim - Part2"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1

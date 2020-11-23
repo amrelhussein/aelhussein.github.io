@@ -1,10 +1,10 @@
 ---
-title: "Project 4"
+title: "Project 3"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2012-03-01-talk-4
+permalink: /talks/project3
 venue: "Bradley University"
-date: 2012-03-01
+date: 2002-03-01
 location: "Peoria, IL, USA"
 ---
 

@@ -2,9 +2,9 @@
 title: "Modeling Ackerman steering robot in Coppelia Sim - Part 1"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/project2
 venue: "Bradley University"
-date: 2013-03-01
+date: 2001-03-01
 location: "Peoria, IL, USA"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Modeling Ackerman steering robot in Coppelia Sim - Part 1"
+title: "project2"
 collection: talks
 type: "Tutorial"
 permalink: /talks/project2

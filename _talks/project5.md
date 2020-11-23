@@ -4,7 +4,7 @@ collection: talks
 type: "Project"
 permalink: /talks/project5
 venue: "Robotics and Mechatronics Reseach group (RAM)"
-date: 2006-03-01
+date: 2020-07-01
 location: "Peoria, IL, USA"
 ---
 

@@ -4,6 +4,4 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-I honestly don't know what's going on
-
+You can find a list of my publications [here](https://scholar.google.com/citations?user=NwGXs2kAAAAJ&hl=en)

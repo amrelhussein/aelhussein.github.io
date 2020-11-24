@@ -1,5 +1,2 @@
 ---
-permalink: /
-title: "Publications"
-
-You can find my sample puclucatons here
+you can find my publications here

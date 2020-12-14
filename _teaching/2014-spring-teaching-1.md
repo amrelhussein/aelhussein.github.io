@@ -8,13 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+The first part of the tutorial can be found [here](https://www.youtube.com/watch?v=5iGOQpVhXTc)
 
-Heading 2
-======
 
-Heading 3
-======
